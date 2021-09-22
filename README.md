@@ -3,6 +3,9 @@ Terratest is a Go library developed at Gruntwork, that makes it easier to write
 
 # To Run this application
 * git clone https://github.com/imnitin28/terra-form-test-techhub.git  <br />
+* Update your keys in **terraform.tfvars** inside examples directory<br />
+    AWS_ACCESS_KEY = "XXXX"<br />
+    AWS_SECRET_KEY = "XXXXXXXX"<br />
 * cd test  <br />
 * go mod init "<MODULE_NAME>"  <br />
 * **MODULE_NAME would be github.com/<YOUR_USERNAME>/<YOUR_REPO_NAME>**  <br />
