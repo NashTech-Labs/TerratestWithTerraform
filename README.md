@@ -8,7 +8,7 @@ Terratest is a Go library developed at Gruntwork, that makes it easier to write
 * go mod init "<MODULE_NAME>"  <br />
 * **MODULE_NAME would be github.com/<YOUR_USERNAME>/<YOUR_REPO_NAME>**  <br />
 * go mod init github.com/imnitin28/terra-form-test-techhub  <br />
-* go run
+* go test
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
